@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "wotrclient-1.8.9",
-      "name": "wotrclient (Minecraft 1.8.9)",
+      "id": "wotrclient-1.8.8",
+      "name": "wotrclient (Minecraft 1.8.8)",
       "description": "wotrclient Running Minecraft 1.8.9 (Forge v11.15.1.2318)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
-      "minecraftVersion": "1.8.9",
+      "minecraftVersion": "1.8.8",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
