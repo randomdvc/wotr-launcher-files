@@ -23,16 +23,7 @@
       "mainServer": false,
       "autoconnect": false,
       "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.8.8-11.15.0.1655:universal",
-          "name": "Minecraft Forge",
-          "type": "ForgeHosted",
-          "artifact": {
-            "size": 3527472,
-            "MD5": "54196745ca3145a9a5c5a19d4ce6070d",
-            "url": "https://raw.githubusercontent.com/rldevelopement/wotr-launcher-files/main/repo/lib/net/minecraftforge/forge/1.8.8-11.15.0.1655/forge-1.8.8-11.15.0.1655-universal.jar"
-          },
-          "subModules": [
+        
             {
               "id": "io.netty:netty-all:4.0.23.Final@jar",
               "name": "Minecraft Forge (netty-all)",
@@ -223,8 +214,7 @@
                 "url": "https://raw.githubusercontent.com/rldevelopement/wotr-launcher-files/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             }
-          ]
-        }
+        
       ]
     }
   ]
